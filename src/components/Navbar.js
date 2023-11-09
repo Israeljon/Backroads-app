@@ -1,5 +1,5 @@
 import logo from "../images/logo.svg";
-import { pageLinks,socialLinks } from "./data";
+import { pageLinks,socialLinks } from "../data";
 const Navbar = () => {
   return (
     <nav className="navbar">
